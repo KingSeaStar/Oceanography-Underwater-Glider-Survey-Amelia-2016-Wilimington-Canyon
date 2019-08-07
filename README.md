@@ -1,4 +1,4 @@
-# Oceanography (my Master's and Ph.D. projects)
+# Oceanography
 
 Scripts, tools, data sources for analyzing and visualizing ocean data from:
 
