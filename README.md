@@ -1,4 +1,4 @@
-# Underwater Glider Survey - Amelia 2016 Wilmington Canyon Survey
+# Oceanography
 
 Scripts, tools, data sources for analyzing and visualizing ocean data from:
 
