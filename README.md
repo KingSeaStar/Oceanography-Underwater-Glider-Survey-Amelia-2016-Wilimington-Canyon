@@ -1,4 +1,4 @@
-# Oceanography
+# Underwater Glider Survey - Amelia 2016 Wilmington Canyon Survey
 
 Scripts, tools, data sources for analyzing and visualizing ocean data from:
 
@@ -13,5 +13,3 @@ This repository contains the MATLAB scripts I have written in my graduate school
 I plan to translate some of the scripts from MATLAB to Phython.
 I have learned from or directly used the scripts written by others in the oceanography community, meteology community, earth science community, and on the internet. 
 Bugs might exist in some of the scripts.
-Purpose 1: Analyze and visualize data for research projects. Try to understand the ocean, the earh system. Contribute to our labrotory and the oceanography community. 
-Purpose 2: Apply mathematical skills to concrete dataset. Keep my intellectual mind in shape.
